@@ -4,7 +4,7 @@ texto2 = input("Digite o segundo texto: \n")
 print("Junção dos dois textos:", texto+" " +texto2)
 print("Repetição dos textos",9*(texto+"espaço"))
 
-#Sobre Strings e fatiamento
+#Sobre Strings e fatiamento (split)
 nome=input("Digite seu nome completo: \n")
 fatiamento=nome.split()
 tamanho=len(fatiamento)
