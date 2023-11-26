@@ -1,0 +1,3 @@
+Nih-1.7
+Bento-1.2
+Joaquim-0.6
